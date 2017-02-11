@@ -1,3 +1,5 @@
+[source]
+----
 export DOMAIN=www-demo-1
 for app in api client; do 
 
@@ -7,3 +9,4 @@ for app in api client; do
     cf start $app
 
 done 
+----
