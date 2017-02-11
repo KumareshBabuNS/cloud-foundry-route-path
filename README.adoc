@@ -10,3 +10,6 @@ for app in api client; do
 
 done 
 ----
+
+
+image::screenshot.png[screenshot]
